@@ -1,7 +1,37 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jQueryUIBootstrapTemplate", "jQueryUIBootstrapTemplate\jQueryUIBootstrapTemplate.csproj", "{2FDC973A-F0B7-41BC-82E2-1D74CDDF952A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterBootstrapTemplate", "TwitterBootstrapTemplate\TwitterBootstrapTemplate.csproj", "{B21ED50D-C296-4D8B-9B1C-D7FCDFDDF55D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jQueryUIMetroTemplate", "jQueryUIMetroTemplate\jQueryUIMetroTemplate.csproj", "{8B84A66C-94AA-400C-B93F-16BC0AD2512D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootstrapMetro", "BootstrapMetro\BootstrapMetro.csproj", "{14D20A59-9432-4B9B-8CA3-2E0C5C48A72B}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FDC973A-F0B7-41BC-82E2-1D74CDDF952A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FDC973A-F0B7-41BC-82E2-1D74CDDF952A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FDC973A-F0B7-41BC-82E2-1D74CDDF952A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FDC973A-F0B7-41BC-82E2-1D74CDDF952A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B21ED50D-C296-4D8B-9B1C-D7FCDFDDF55D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21ED50D-C296-4D8B-9B1C-D7FCDFDDF55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21ED50D-C296-4D8B-9B1C-D7FCDFDDF55D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21ED50D-C296-4D8B-9B1C-D7FCDFDDF55D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B84A66C-94AA-400C-B93F-16BC0AD2512D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B84A66C-94AA-400C-B93F-16BC0AD2512D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B84A66C-94AA-400C-B93F-16BC0AD2512D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B84A66C-94AA-400C-B93F-16BC0AD2512D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14D20A59-9432-4B9B-8CA3-2E0C5C48A72B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D20A59-9432-4B9B-8CA3-2E0C5C48A72B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D20A59-9432-4B9B-8CA3-2E0C5C48A72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D20A59-9432-4B9B-8CA3-2E0C5C48A72B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
